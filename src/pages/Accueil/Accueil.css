@@ -1,0 +1,60 @@
+.hero-section {
+    height: 1050px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-bottom: 10px;
+  }
+  
+  .hero-overlay {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  
+  .nav-link {
+    color: #08061b !important;
+    transition: color 0.2s ease-in-out !important;
+    font-size: 20px;
+  }
+  
+  .nav-link:hover {
+    color: #eef3f2 !important;
+    background-color: #6d6cc4;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  
+  .btn-connect {
+    background-color: #070596 !important;
+    border-color: blue !important;
+    border-radius: 50px !important;
+    padding: 8px 24px !important;
+    color: white !important;
+    transition: all 0.2s ease-in-out !important;
+  }
+  
+  .btn-connect:hover {
+    background-color: #047857 !important;
+    border-color: #047857 !important;
+  }
+  
+  .navbar-brand img {
+    height: 48px;
+    width: auto;
+    object-fit: contain;
+  }
+  
+  .navbar {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .Accueil{
+    background-color: #f8f9fa;
+    height: 100%;
+  }  
+   marquee{
+    width: 300px;
+   }

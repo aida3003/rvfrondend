@@ -1,0 +1,13 @@
+.custom-navbar .nav-link {
+  font-size: 1.05rem;
+  color: #333;
+  transition: color 0.3s;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #0d6efd;
+}
+
+.brand-text {
+  font-family: 'Segoe UI', sans-serif;
+}
